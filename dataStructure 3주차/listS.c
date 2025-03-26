@@ -1,6 +1,6 @@
 #include "listS.h"
 #include <stdio.h>
-int insertElement(int L[], int n, int x) { // 리스트 L에 원소 x를 삽입하는 함수
+int insertElement(int L[], int n, int x) { // 리스트 L에 원소 x를 삽입하는 함수 n에는 size를 x에는 삽입할 값을 넣을거임.
 	int i = 0, k = 0, move = 0; // move는 자리이동 횟수 카운터
 
 	// 원소의 크기를 비교하여 삽입 위치 k 찾기 
