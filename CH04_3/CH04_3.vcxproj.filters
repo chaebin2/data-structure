@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Downloads\ch04\ch04_3\ex4_3.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="..\..\..\..\Downloads\ch04\ch04_3\CircularLinkedList.c">
       <Filter>소스 파일</Filter>
     </ClCompile>

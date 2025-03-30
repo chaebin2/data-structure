@@ -128,7 +128,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\..\Downloads\ch04\ch04_3\CircularLinkedList.c" />
-    <ClCompile Include="..\..\..\..\Downloads\ch04\ch04_3\ex4_3.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\Downloads\ch04\ch04_3\CircularLinkedList.h" />
