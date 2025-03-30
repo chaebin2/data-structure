@@ -21,10 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{32629616-c148-44d8-92b1-f11d9c458a81}</ProjectGuid>
-    <RootNamespace>dataStructure3주차</RootNamespace>
+    <ProjectGuid>{a6f425e9-f7af-46bf-82f3-270ec9e52d19}</ProjectGuid>
+    <RootNamespace>dataStructure4주차</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>CH03</ProjectName>
+    <ProjectName>dd</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -128,11 +128,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ex3_4.c" />
-    <ClCompile Include="listS.c" />
+    <ClCompile Include="..\..\..\..\Downloads\ch04\ch04_1\ex4_1.c" />
+    <ClCompile Include="..\..\..\..\Downloads\ch04\ch04_1\InsertLinkedList.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="listS.h" />
+    <ClInclude Include="..\..\..\..\Downloads\ch04\ch04_1\InsertLinkedList.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
