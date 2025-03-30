@@ -23,7 +23,7 @@ int main() {
 	move = deleteElement(list, size, 30);
 	size--;
 	if (move == size) {
-		printf("\n선형리스트에 원소가 없어 삭제할 수 없습니다.\n");
+		printf("\n선형리스트에 원소가 없어 삭제할 수 없습니다.\n"); 
 	}
 	else {
 		printf("\n삭제 후 선형 리스트: ");
