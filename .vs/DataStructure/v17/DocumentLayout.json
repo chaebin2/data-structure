@@ -3,13 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\cheab\\source\\repos\\DataStructure\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A6F425E9-F7AF-46BF-82F3-270EC9E52D19}|CH04_1\\dataStructure 4\uC8FC\uCC28.vcxproj|C:\\Users\\cheab\\Downloads\\ch04\\ch04_1\\ex4_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{63B68D02-475E-4F88-B0B7-3C246258274E}|CH04_4\\CH04_4.vcxproj|C:\\Users\\cheab\\Downloads\\ch04\\ch04_4\\DoubleLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A7909B9-6511-43E6-B05D-541C6A22E7E4}|CH04_2\\CH04_2.vcxproj|C:\\Users\\cheab\\Downloads\\ch04\\ch04_2\\ex4_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cheab\\Downloads\\ch04\\ch04_1\\ex4_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,7 +19,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,20 +27,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DoubleLinkedList.c",
               "DocumentMoniker": "C:\\Users\\cheab\\Downloads\\ch04\\ch04_4\\DoubleLinkedList.c",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\ch04\\ch04_4\\DoubleLinkedList.c",
               "ToolTip": "C:\\Users\\cheab\\Downloads\\ch04\\ch04_4\\DoubleLinkedList.c",
               "RelativeToolTip": "..\\..\\..\\Downloads\\ch04\\ch04_4\\DoubleLinkedList.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-30T11:19:33.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T11:19:33.507Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ex4_2.c",
               "DocumentMoniker": "C:\\Users\\cheab\\Downloads\\ch04\\ch04_2\\ex4_2.c",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\ch04\\ch04_2\\ex4_2.c",
@@ -48,12 +47,11 @@
               "RelativeToolTip": "..\\..\\..\\Downloads\\ch04\\ch04_2\\ex4_2.c",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-30T10:46:24.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T10:46:24.825Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ex4_1.c",
               "DocumentMoniker": "C:\\Users\\cheab\\Downloads\\ch04\\ch04_1\\ex4_1.c",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\ch04\\ch04_1\\ex4_1.c",
@@ -61,7 +59,8 @@
               "RelativeToolTip": "..\\..\\..\\Downloads\\ch04\\ch04_1\\ex4_1.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-30T10:34:53.749Z"
+              "WhenOpened": "2025-03-30T10:34:53.749Z",
+              "EditorCaption": ""
             }
           ]
         }
