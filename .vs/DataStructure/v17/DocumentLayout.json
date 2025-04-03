@@ -6,19 +6,10 @@
       "AbsoluteMoniker": "D:0:0:{A6F425E9-F7AF-46BF-82F3-270EC9E52D19}|CH04_1\\dataStructure 4\uC8FC\uCC28.vcxproj|C:\\Users\\cheab\\Downloads\\ch04\\ch04_1\\InsertLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6F425E9-F7AF-46BF-82F3-270EC9E52D19}|CH04_1\\dataStructure 4\uC8FC\uCC28.vcxproj|C:\\Users\\cheab\\Downloads\\ch04\\ch04_1\\InsertLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A7909B9-6511-43E6-B05D-541C6A22E7E4}|CH04_2\\CH04_2.vcxproj|C:\\Users\\cheab\\Downloads\\ch04\\ch04_2\\LinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A6F425E9-F7AF-46BF-82F3-270EC9E52D19}|CH04_1\\dataStructure 4\uC8FC\uCC28.vcxproj|C:\\Users\\cheab\\Downloads\\ch04\\ch04_1\\ex4_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63B68D02-475E-4F88-B0B7-3C246258274E}|CH04_4\\CH04_4.vcxproj|C:\\Users\\cheab\\Downloads\\ch04\\ch04_4\\DoubleLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A7909B9-6511-43E6-B05D-541C6A22E7E4}|CH04_2\\CH04_2.vcxproj|C:\\Users\\cheab\\Downloads\\ch04\\ch04_2\\ex4_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A6F425E9-F7AF-46BF-82F3-270EC9E52D19}|CH04_1\\dataStructure 4\uC8FC\uCC28.vcxproj|C:\\Users\\cheab\\Downloads\\ch04\\ch04_1\\InsertLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,29 +31,16 @@
               "Title": "InsertLinkedList.c",
               "DocumentMoniker": "C:\\Users\\cheab\\Downloads\\ch04\\ch04_1\\InsertLinkedList.c",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\ch04\\ch04_1\\InsertLinkedList.c",
-              "ToolTip": "C:\\Users\\cheab\\Downloads\\ch04\\ch04_1\\InsertLinkedList.c",
-              "RelativeToolTip": "..\\..\\..\\Downloads\\ch04\\ch04_1\\InsertLinkedList.c",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADUAAAA7AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\cheab\\Downloads\\ch04\\ch04_1\\InsertLinkedList.c*",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\ch04\\ch04_1\\InsertLinkedList.c*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-01T13:36:43.081Z",
+              "WhenOpened": "2025-04-02T08:12:00.924Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LinkedList.h",
-              "DocumentMoniker": "C:\\Users\\cheab\\Downloads\\ch04\\ch04_2\\LinkedList.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\ch04\\ch04_2\\LinkedList.h",
-              "ToolTip": "C:\\Users\\cheab\\Downloads\\ch04\\ch04_2\\LinkedList.h",
-              "RelativeToolTip": "..\\..\\..\\Downloads\\ch04\\ch04_2\\LinkedList.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-01T13:31:58.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "InsertLinkedList.h",
               "DocumentMoniker": "C:\\Users\\cheab\\Downloads\\ch04\\ch04_1\\InsertLinkedList.h",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\ch04\\ch04_1\\InsertLinkedList.h",
@@ -75,37 +53,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DoubleLinkedList.c",
-              "DocumentMoniker": "C:\\Users\\cheab\\Downloads\\ch04\\ch04_4\\DoubleLinkedList.c",
-              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\ch04\\ch04_4\\DoubleLinkedList.c",
-              "ToolTip": "C:\\Users\\cheab\\Downloads\\ch04\\ch04_4\\DoubleLinkedList.c",
-              "RelativeToolTip": "..\\..\\..\\Downloads\\ch04\\ch04_4\\DoubleLinkedList.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-30T11:19:33.507Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ex4_2.c",
-              "DocumentMoniker": "C:\\Users\\cheab\\Downloads\\ch04\\ch04_2\\ex4_2.c",
-              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\ch04\\ch04_2\\ex4_2.c",
-              "ToolTip": "C:\\Users\\cheab\\Downloads\\ch04\\ch04_2\\ex4_2.c",
-              "RelativeToolTip": "..\\..\\..\\Downloads\\ch04\\ch04_2\\ex4_2.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-30T10:46:24.825Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ex4_1.c",
               "DocumentMoniker": "C:\\Users\\cheab\\Downloads\\ch04\\ch04_1\\ex4_1.c",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\ch04\\ch04_1\\ex4_1.c",
               "ToolTip": "C:\\Users\\cheab\\Downloads\\ch04\\ch04_1\\ex4_1.c",
               "RelativeToolTip": "..\\..\\..\\Downloads\\ch04\\ch04_1\\ex4_1.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-03-30T10:34:53.749Z",
               "EditorCaption": ""
