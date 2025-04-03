@@ -82,7 +82,7 @@ void insertLastNode(linkedList_h* L, char* x) {
 }
 
 // 리스트에서 노드 p를 삭제하는 연산
-void deleteNode(linkedList_h* L, listNode* p) {
+void deleteNode(linkedList_h* L, listNode* p) { // p는 삭제하려는 노드의 주소를 담고있는 포인터.
 	listNode* pre;					// 삭제할 노드의 선행자 노드를 나타낼 포인터	
 	if (L->head == NULL) return;		// 공백 리스트라면 삭제 연산 중단	
 	if (L->head->link == NULL) {    // 리스트에 노드가 한 개만 있는 경우
