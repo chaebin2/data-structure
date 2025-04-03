@@ -5,6 +5,7 @@
 int main(void) {
 	linkedList_h* L;
 	L = createLinkedList_h();
+
 	printf("(1) 공백 리스트 생성하기! \n");
 	printList(L);
 
@@ -23,6 +24,7 @@ int main(void) {
 	printf("\n(5) 리스트 공간을 해제하여 공백 리스트로 만들기! \n");
 	freeLinkedList_h(L);
 	printList(L);
-
-	getchar();  return 0;
+	getchar();  
+	printf("안녕하세유");
+	return 0;
 }

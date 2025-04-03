@@ -1,6 +1,9 @@
 #define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
 #include <string.h>
 #include "InsertLinkedList.h"
+#include <stdlib.h>
+
 // 공백 연결 리스트를 생성하는 연산
 linkedList_h* createLinkedList_h(void) {
 	linkedList_h* L;
@@ -36,7 +39,7 @@ void printList(linkedList_h* L) {
 // 첫 번째 노드로 삽입하는 연산
 void insertFirstNode(linkedList_h* L, char* x) {
 	listNode* newNode;
-	newNode = (listNode*)malloc(sizeof(listNode));	// 삽입할 새 노드 할당
+	newNode = (listNode*)malloc(sizeof(listNode));	// listNode 구조체 하나 크기만큼 메모리 확보해서 그 주소를 newNode에 저장해줘!
 	strcpy(newNode->data, x);						// 새 노드의 데이터 필드에 x 저장  
 	newNode->link = L->head;
 	L->head = newNode;
