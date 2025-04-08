@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\cheab\\source\\repos\\DataStructure\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ACB3AE74-D99C-491C-BE43-0B16C0AD83F2}|CH04_5\\CH04_5.vcxproj|C:\\Users\\cheab\\source\\repos\\DataStructure\\CH04_5\\LinkedPoly.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACB3AE74-D99C-491C-BE43-0B16C0AD83F2}|CH04_5\\CH04_5.vcxproj|solutionrelative:CH04_5\\LinkedPoly.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959EDD8F-328C-4022-BA06-B056774A9B94}|CH04_3\\CH04_3.vcxproj|C:\\Users\\cheab\\source\\repos\\DataStructure\\CH04_3\\CircularLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{959EDD8F-328C-4022-BA06-B056774A9B94}|CH04_3\\CH04_3.vcxproj|solutionrelative:CH04_3\\CircularLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB77927F-0576-4D1C-A30B-0DEF23F33455}|CH04_2\\CH04_2.vcxproj|C:\\Users\\cheab\\source\\repos\\DataStructure\\CH04_2\\LinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB77927F-0576-4D1C-A30B-0DEF23F33455}|CH04_2\\CH04_2.vcxproj|solutionrelative:CH04_2\\LinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB77927F-0576-4D1C-A30B-0DEF23F33455}|CH04_2\\CH04_2.vcxproj|C:\\Users\\cheab\\source\\repos\\DataStructure\\CH04_2\\ex4_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB77927F-0576-4D1C-A30B-0DEF23F33455}|CH04_2\\CH04_2.vcxproj|solutionrelative:CH04_2\\ex4_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B2536C06-2462-4AD7-AD69-EA6434BFC2BB}|CH04_1\\ch04_1.vcxproj|C:\\Users\\cheab\\source\\repos\\DataStructure\\CH04_1\\InsertLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B2536C06-2462-4AD7-AD69-EA6434BFC2BB}|CH04_1\\ch04_1.vcxproj|solutionrelative:CH04_1\\InsertLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -27,6 +43,57 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LinkedPoly.c",
+              "DocumentMoniker": "C:\\Users\\cheab\\source\\repos\\DataStructure\\CH04_5\\LinkedPoly.c",
+              "RelativeDocumentMoniker": "CH04_5\\LinkedPoly.c",
+              "ToolTip": "C:\\Users\\cheab\\source\\repos\\DataStructure\\CH04_5\\LinkedPoly.c",
+              "RelativeToolTip": "CH04_5\\LinkedPoly.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-03T14:30:40.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CircularLinkedList.c",
+              "DocumentMoniker": "C:\\Users\\cheab\\source\\repos\\DataStructure\\CH04_3\\CircularLinkedList.c",
+              "RelativeDocumentMoniker": "CH04_3\\CircularLinkedList.c",
+              "ToolTip": "C:\\Users\\cheab\\source\\repos\\DataStructure\\CH04_3\\CircularLinkedList.c",
+              "RelativeToolTip": "CH04_3\\CircularLinkedList.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-03T14:29:37.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinkedList.c",
+              "DocumentMoniker": "C:\\Users\\cheab\\source\\repos\\DataStructure\\CH04_2\\LinkedList.c",
+              "RelativeDocumentMoniker": "CH04_2\\LinkedList.c",
+              "ToolTip": "C:\\Users\\cheab\\source\\repos\\DataStructure\\CH04_2\\LinkedList.c",
+              "RelativeToolTip": "CH04_2\\LinkedList.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-03T14:25:54.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ex4_2.c",
+              "DocumentMoniker": "C:\\Users\\cheab\\source\\repos\\DataStructure\\CH04_2\\ex4_2.c",
+              "RelativeDocumentMoniker": "CH04_2\\ex4_2.c",
+              "ToolTip": "C:\\Users\\cheab\\source\\repos\\DataStructure\\CH04_2\\ex4_2.c",
+              "RelativeToolTip": "CH04_2\\ex4_2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-03T14:25:19.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "InsertLinkedList.c",
               "DocumentMoniker": "C:\\Users\\cheab\\source\\repos\\DataStructure\\CH04_1\\InsertLinkedList.c",
               "RelativeDocumentMoniker": "CH04_1\\InsertLinkedList.c",
@@ -34,12 +101,11 @@
               "RelativeToolTip": "CH04_1\\InsertLinkedList.c",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-03T13:47:13.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T13:47:13.495Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ex4_1.c",
               "DocumentMoniker": "C:\\Users\\cheab\\source\\repos\\DataStructure\\CH04_1\\ex4_1.c",
               "RelativeDocumentMoniker": "CH04_1\\ex4_1.c",
