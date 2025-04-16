@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\cheab\\source\\repos\\DataStructure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38C9F035-FD76-4D9E-A1A5-EE46C2A38AF8}|CH05_1\\CH05_1.vcxproj|C:\\Users\\cheab\\source\\repos\\DataStructure\\CH05_1\\stackS.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{38C9F035-FD76-4D9E-A1A5-EE46C2A38AF8}|CH05_1\\CH05_1.vcxproj|solutionrelative:CH05_1\\stackS.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4A092575-CC62-4CB6-BDD0-760264A9CF79}|CH06_1\\CH06_1.vcxproj|C:\\Users\\cheab\\source\\repos\\DataStructure\\CH06_1\\queueS.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A092575-CC62-4CB6-BDD0-760264A9CF79}|CH06_1\\CH06_1.vcxproj|solutionrelative:CH06_1\\queueS.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38C9F035-FD76-4D9E-A1A5-EE46C2A38AF8}|CH05_1\\CH05_1.vcxproj|C:\\Users\\cheab\\source\\repos\\DataStructure\\CH05_1\\ex5_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{38C9F035-FD76-4D9E-A1A5-EE46C2A38AF8}|CH05_1\\CH05_1.vcxproj|solutionrelative:CH05_1\\ex5_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FB77927F-0576-4D1C-A30B-0DEF23F33455}|CH04_2\\CH04_2.vcxproj|C:\\Users\\cheab\\source\\repos\\DataStructure\\CH04_2\\LinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB77927F-0576-4D1C-A30B-0DEF23F33455}|CH04_2\\CH04_2.vcxproj|solutionrelative:CH04_2\\LinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38C9F035-FD76-4D9E-A1A5-EE46C2A38AF8}|CH05_1\\CH05_1.vcxproj|C:\\Users\\cheab\\source\\repos\\DataStructure\\CH05_1\\stackS.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{38C9F035-FD76-4D9E-A1A5-EE46C2A38AF8}|CH05_1\\CH05_1.vcxproj|solutionrelative:CH05_1\\stackS.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FB77927F-0576-4D1C-A30B-0DEF23F33455}|CH04_2\\CH04_2.vcxproj|C:\\Users\\cheab\\source\\repos\\DataStructure\\CH04_2\\LinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB77927F-0576-4D1C-A30B-0DEF23F33455}|CH04_2\\CH04_2.vcxproj|solutionrelative:CH04_2\\LinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB77927F-0576-4D1C-A30B-0DEF23F33455}|CH04_2\\CH04_2.vcxproj|C:\\Users\\cheab\\source\\repos\\DataStructure\\CH04_2\\ex4_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB77927F-0576-4D1C-A30B-0DEF23F33455}|CH04_2\\CH04_2.vcxproj|solutionrelative:CH04_2\\ex4_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1537,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,42 +34,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "stackS.h",
-              "DocumentMoniker": "C:\\Users\\cheab\\source\\repos\\DataStructure\\CH05_1\\stackS.h",
-              "RelativeDocumentMoniker": "CH05_1\\stackS.h",
-              "ToolTip": "C:\\Users\\cheab\\source\\repos\\DataStructure\\CH05_1\\stackS.h",
-              "RelativeToolTip": "CH05_1\\stackS.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "queueS.h",
+              "DocumentMoniker": "C:\\Users\\cheab\\source\\repos\\DataStructure\\CH06_1\\queueS.h",
+              "RelativeDocumentMoniker": "CH06_1\\queueS.h",
+              "ToolTip": "C:\\Users\\cheab\\source\\repos\\DataStructure\\CH06_1\\queueS.h",
+              "RelativeToolTip": "CH06_1\\queueS.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-09T08:38:58.992Z",
+              "WhenOpened": "2025-04-16T06:00:04.454Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "stackS.c",
-              "DocumentMoniker": "C:\\Users\\cheab\\source\\repos\\DataStructure\\CH05_1\\stackS.c",
-              "RelativeDocumentMoniker": "CH05_1\\stackS.c",
-              "ToolTip": "C:\\Users\\cheab\\source\\repos\\DataStructure\\CH05_1\\stackS.c",
-              "RelativeToolTip": "CH05_1\\stackS.c",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAcwC4AAAASAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ex4_2.c",
+              "DocumentMoniker": "C:\\Users\\cheab\\source\\repos\\DataStructure\\CH04_2\\ex4_2.c",
+              "RelativeDocumentMoniker": "CH04_2\\ex4_2.c",
+              "ToolTip": "C:\\Users\\cheab\\source\\repos\\DataStructure\\CH04_2\\ex4_2.c",
+              "RelativeToolTip": "CH04_2\\ex4_2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-09T08:37:47.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T09:31:31.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinkedList.h",
+              "DocumentMoniker": "C:\\Users\\cheab\\source\\repos\\DataStructure\\CH04_2\\LinkedList.h",
+              "RelativeDocumentMoniker": "CH04_2\\LinkedList.h",
+              "ToolTip": "C:\\Users\\cheab\\source\\repos\\DataStructure\\CH04_2\\LinkedList.h",
+              "RelativeToolTip": "CH04_2\\LinkedList.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-13T09:34:44.087Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ex5_1.c",
-              "DocumentMoniker": "C:\\Users\\cheab\\source\\repos\\DataStructure\\CH05_1\\ex5_1.c",
-              "RelativeDocumentMoniker": "CH05_1\\ex5_1.c",
-              "ToolTip": "C:\\Users\\cheab\\source\\repos\\DataStructure\\CH05_1\\ex5_1.c",
-              "RelativeToolTip": "CH05_1\\ex5_1.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAATAAAAAAAAAA==",
+              "Title": "LinkedList.c",
+              "DocumentMoniker": "C:\\Users\\cheab\\source\\repos\\DataStructure\\CH04_2\\LinkedList.c",
+              "RelativeDocumentMoniker": "CH04_2\\LinkedList.c",
+              "ToolTip": "C:\\Users\\cheab\\source\\repos\\DataStructure\\CH04_2\\LinkedList.c",
+              "RelativeToolTip": "CH04_2\\LinkedList.c",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAGUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-09T08:37:45.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T09:25:25.429Z"
             }
           ]
         }
