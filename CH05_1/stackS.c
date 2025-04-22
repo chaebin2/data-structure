@@ -15,7 +15,7 @@ int isStackFull() {
 }
 // 스택의 top에 원소를 삽입하는 연산
 void push(element item) {
-	if (isStackFull()) {	// 스택이 공백 상태인 경우
+	if (isStackFull()) {	// 포화상태인 경우
 		printf("\n\n Stack is FULL! \n");
 		return;
 	}
