@@ -49,7 +49,7 @@ element peek() {
 void printStack() {
 	stackNode* p = top;
 	printf("\n STACK [ ");
-	while (p) {		// p가 0이 아니면 계속 와일문을 돌리는 그런느낌?
+	while (p) {		// p가 NULL이 아니면 계속 조지겠다
 		printf("%d ", p->data);
 		p = p->link;
 	}
